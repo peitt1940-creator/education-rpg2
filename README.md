@@ -12,6 +12,6 @@
 
 操作：電腦用方向鍵或 WASD 移動；手機、平板用畫面上的方向鍵與調查鍵。
 
-遊戲網址：<https://daimg49-gif.github.io/education-rpg/>
+遊戲網址：<https://peitt1940-creator.github.io/education-rpg2/>
 
 開發紀錄與可複用做法：[docs/GAME_DEVELOPMENT_PLAYBOOK.md](docs/GAME_DEVELOPMENT_PLAYBOOK.md)
